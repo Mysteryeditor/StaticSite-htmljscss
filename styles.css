@@ -1,0 +1,26 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    background-color: #8DAE9B !important;
+    /* background: linear-gradient(90deg, #8DAE9B 0%, #6B8E71 100%) !important; */
+
+}
+
+footer {
+    background-color: #8DAE9B;
+}
+
+.carousel-caption h5 {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+}
+
+.card-title {
+    color: #8DAE9B;
+}
+
+.layer1bg{
+    /* background-image: ; */
+}
