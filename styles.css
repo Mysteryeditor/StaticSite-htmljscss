@@ -20,7 +20,14 @@ footer {
 .card-title {
     color: #8DAE9B;
 }
-
 .layer1bg{
-    /* background-image: ; */
+    background-image: url('images/mainbannerimg.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+}
+
+.mainbannerh1{
+    font-size: 3.45em;
 }
